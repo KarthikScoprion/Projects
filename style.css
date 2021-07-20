@@ -1,0 +1,26 @@
+.body{
+    text-align: center;
+    color:white;
+}
+
+.image-div{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    bottom: 30%;
+  }
+
+.blog-div{
+    background-color: #f44336;
+    color: white;
+    padding: 15px 10;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    bottom: 30%;
+  }
